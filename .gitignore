@@ -32,3 +32,7 @@ build/
 
 ### VS Code ###
 .vscode/
+/compose.yaml
+/mvnw
+/mvnw.cmd
+/.mvn/wrapper/maven-wrapper.properties
